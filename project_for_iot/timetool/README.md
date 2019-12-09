@@ -3,3 +3,7 @@
 这里是时间相关的工具
 
 VoiceTime：语音报时音效
+
+···sh
+python3 timetool.py
+```
