@@ -4,6 +4,6 @@
 
 VoiceTime：语音报时音效
 
-···sh
+```sh
 python3 timetool.py
 ```
