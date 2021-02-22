@@ -1,4 +1,8 @@
-# Feng_Liu
-Project for IOT
+# Project for IOT(whole hour timekeeping)
 
-some tools for this project and a code in it 
+## Summary
+realized the project of the whole hour timekeeping using raspberry pie and python.
+
+## About me:
+Graduate student in Stevens institute of technology</br>
+Major in Computer Eningeering</br>
